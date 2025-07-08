@@ -1,3 +1,11 @@
+--[[
+
+        /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗ 
+        Made by NeDIAD a.k.a NotDIAD
+        https://github.com/NeDIAD , @nediad , @notdiad
+
+]]
+
 local luna = require 'gamesense/luna'
 local pui = require 'gamesense/pui'
 
